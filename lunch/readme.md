@@ -1,6 +1,4 @@
-# Replace with recipe name
-
-Pesto Pasta with Lemon, Spinach, Edamame & Toasted Almonds
+# Pesto Pasta with Lemon, Spinach, Edamame & Toasted Almonds
 
 ## Description
 
