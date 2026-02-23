@@ -34,4 +34,3 @@
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
 ### Author(s):
-
