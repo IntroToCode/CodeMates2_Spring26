@@ -1,7 +1,7 @@
 # Recipe Index
 
 - Breakfast: Turkish Menemen
-- Lunch: Pesto Pasta with Lemon, Spinach, Edamame & Toasted Almonds
+- Lunch: Lemony Pesto Pasta with Edamame & Almonds
 - Dinner: Chinese Egg Fried Rice
 
 _Notes_
