@@ -1,8 +1,8 @@
 # Recipe Index
 
-- Breakfast: 
+- Breakfast: Turkish Menemen
 - Lunch: 
-- Dinner: 
+- Dinner: Chinese Egg Fried Rice
 
 _Notes_
 __
