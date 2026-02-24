@@ -11,22 +11,22 @@
 | Prep Time | 10 minutes |
 | Cook Time | 10 minutes |
 | Total Time | 20 minutes |
-| Servings | 2 |
+| Servings | 4 |
 | Difficulty | Easy |
 | Tags | vegetarian, quick, turkish, breakfast |
 
 <!-- Note the fields in the markdown table -->
 
 ### Ingredients:
-- [ ] 2 tablespoons olive oil
-- [ ] 1 small onion, finely chopped (optional but common)
-- [ ] 1 green pepper (bell or similar), chopped
-- [ ] 1 clove garlic, minced​
-- [ ] 2 medium tomatoes, chopped (or 1 cup canned chopped tomatoes)
-- [ ] 1 tablespoon tomato paste (optional, for richness)
-- [ ] 3–4 eggs
-- [ ] ½ teaspoon paprika
-- [ ] Pinch chili flakes (optional)
+- [ ] 3 tablespoons olive oil
+- [ ] 2 small onion, finely chopped (optional but common)
+- [ ] 2 green pepper (bell or similar), chopped
+- [ ] 2 clove garlic, minced​
+- [ ] 4 medium tomatoes, chopped (or 1 cup canned chopped tomatoes)
+- [ ] 2 tablespoon tomato paste (optional, for richness)
+- [ ] 6–8 eggs
+- [ ] 1 teaspoon paprika
+- [ ] 2 Pinch chili flakes (optional)
 - [ ] Salt and pepper to taste
 - [ ] Crumbled feta or white cheese (optional, but traditional in some versions)
 - [ ] Fresh parsley for garnish
