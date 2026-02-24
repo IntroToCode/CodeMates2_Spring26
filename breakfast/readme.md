@@ -4,6 +4,9 @@
 
 <!-- 1-2 sentences about the dish. Where does it come from? What makes it special? -->
 
+## Spice Level
+🌶
+
 ## Stats
 
 | Field | Info |

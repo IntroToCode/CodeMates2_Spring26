@@ -5,6 +5,9 @@
 <!-- 1-2 sentences about the dish. Where does it come from? What makes it special? -->
 Pesto and pasta is a classic combination. This dish doesn't really need refigeration and tastes great room temperature or cold. It's also easy to make!!
 
+## Spice Level
+No spice
+
 ## Stats
 
 | Field | Info |

@@ -4,6 +4,9 @@
 
 Chinese Egg Fried Rice is a quick and satisfying dinner made by stir-frying cold rice with eggs, aromatics, and simple seasonings. Originally created to use leftover rice, it is loved for its fluffy texture, savory flavor, and endless customization options.
 
+## Spice Level
+No spice 
+
 ## Stats
 
 | Field | Info |
