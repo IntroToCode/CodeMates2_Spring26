@@ -1,4 +1,4 @@
-# Pesto Pasta with Lemon, Spinach, Edamame & Toasted Almonds
+# Pesto Pasta with Edamame & Almonds
 
 ## Description
 
