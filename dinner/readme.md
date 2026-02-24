@@ -44,6 +44,7 @@ Chinese Egg Fried Rice is a quick and satisfying dinner made by stir-frying cold
 - Use medium-high heat to create better flavor and texture.
 - You can add protein such as shrimp, chicken, ham, or tofu to make it a fuller dinner.
 - Avoid adding too much soy sauce, as it can make the rice soggy.
+- Pairing this dish with coconut water can really complement the savory reciepe. 
 
 ### Author(s):
 Yidi Li
